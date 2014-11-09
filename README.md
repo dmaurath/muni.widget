@@ -30,7 +30,7 @@ Try adding a 3, 4, 5, or 6 after $abfahrt.route, $abfahrt.direction and $abfahrt
   	$dom.find('#direction').html  $abfahrt.direction4[0]
   	$dom.find('#times').html  $abfahrt.times4
 
-The first output set of times on your desktop should change as the number changes. If you wish to change both the first and second output, then you will need to edit the dom.find code. For example, here is the script in the case were my desirted routes are 4 and 6:
+The first output set of times on your desktop should change as the number changes. If you wish to change both the first and second outputs, then you will need to edit the dom.find code. For example, here is the script in the case were my desired routes are 4 and 6:
 
 	$dom.find('#route').html  $abfahrt.route4[0]
   	$dom.find('#direction').html  $abfahrt.direction4[0]
