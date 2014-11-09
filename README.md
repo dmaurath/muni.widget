@@ -16,7 +16,7 @@ You will need to have python installed with the [Requests Package](http://docs.p
 6. Save File
 
 ##Stops with many routes
-Your stop may have more than two bus routes assigned to it. Its difficult to know the order routes will appear in so you will need to edit the index.coffee script to find your desired route. The script can parse out up to 6 routes per stop, which I have found to be the maximum numner of routes per stop so far. 
+Your stop may have more than two bus routes assigned to it. Its difficult to know the order routes will appear in so you will need to edit the index.coffee script to find your desired route. The script can parse out up to 6 routes per stop, which I have found to be the maximum number of routes per stop so far. 
 
 If you do not see your stop appearing, you will need to edit the coffescript, index.coffee. This is easy to do. Open the script in a text editor (recommend Sublime Text 2) and find the code that looks like this: 
 
